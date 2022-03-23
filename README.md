@@ -1,5 +1,6 @@
 # Medical-Testing-Analysis-Visualization
 From Majid Feiz, Bayesian-Inference-Application in Medical Testing
+
 Consider two people, Joe and Jim, who went to cancer screening at different clinics, Joe for prostate 
 cancer screening and Jim for breast cancer screening. Male breast cancer is rare (“less than 1% of all 
 breast cancers occur in men”, https://www.breastcancer.org/symptoms/types/male_bc), but prostate 
