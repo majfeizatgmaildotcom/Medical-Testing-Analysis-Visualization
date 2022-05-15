@@ -1,4 +1,4 @@
-# Medical-Testing-Analysis-Visualization
+# Medical Testing Analysis & Visualization
 From Majid Feiz, Bayesian-Inference-Application in Medical Testing
 
 Consider two people, Joe and Jim, who went to cancer screening at different clinics, Joe for prostate 
