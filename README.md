@@ -1,15 +1,16 @@
-# Medical Testing Analysis & Visualization
+# Bayesian Medical Testing Analysis & Visualizaion
 From Majid Feiz, Bayesian-Inference-Application in Medical Testing
 
-Consider two people, Joe and Jim, who went to cancer screening at different clinics, Joe for prostate 
+Bayesian inference is a method of statistical inference in which Bayes' rule is used to update the probability that a hypothesis is correct as evidence is added. In clinical medicine Bayesian methods are used to establish the probability that a patient has a particular condition given the results of the test used and the prevalence of the condition in the population tested.
+In this analysis, consider two people, Joe and Jim, who went to cancer screening at different clinics, Joe for prostate 
 cancer screening and Jim for breast cancer screening. Male breast cancer is rare (“less than 1% of all 
 breast cancers occur in men”, https://www.breastcancer.org/symptoms/types/male_bc), but prostate 
 cancer is common (“About 6 cases in 10 are diagnosed in men who are 65 or older”, 
 https://www.cancer.org/cancer/prostate-cancer/about/key-statistics.html). Both heard that their cancer
-screenings turned out positive. In this exercise, assume P (Cancer=Male_breast) = 0.01 and P
-(Cancer=Male_prostate) = 0.6. Also assumed TPR and TNR for prostate cancer screening are 0.75 and 
-0.70 and TPR and TNR for breast cancer screening are 0.85 and 0.80, respectively.
-Developed a contingency table for Bayesian inferencing for each individual.
+screenings turned out positive. In this exercise, assumed P (Cancer=Male_breast) = 0.01 and P
+(Cancer=Male_prostate) = 0.6. Also assumed sensitivity (TPR) and specificity (TNR) for prostate cancer screening are 0.75 and 
+0.70 and TPR and TNR for breast cancer screening are 0.85 and 0.80, respectively.\
+The project's goal is to develop a contingency table for Bayesian inferencing for each individual to see which one is more likely to have cancer and provide bayes frequency box visualization plot.
 
 **Project Status: Completed**
 <br>
