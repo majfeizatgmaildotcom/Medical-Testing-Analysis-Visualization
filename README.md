@@ -10,3 +10,7 @@ screenings turned out positive. In this exercise, assume P (Cancer=Male_breast) 
 (Cancer=Male_prostate) = 0.6. Also assumed TPR and TNR for prostate cancer screening are 0.75 and 
 0.70 and TPR and TNR for breast cancer screening are 0.85 and 0.80, respectively.
 Developed a contingency table for Bayesian inferencing for each individual.
+
+**Project Status: Completed**
+<br>
+<a href="https://github.com/majfeizatgmaildotcom/Medical-Testing-Analysis-Visualization/blob/1e0957e56c8ee7c9c745235e94fe76e240ce7e96/Medical_Testing_Analysis_Visualization.ipynb">Jupyter Notebook Viewer</a>
