@@ -16,3 +16,6 @@ The project's goal is to develop a contingency table for Bayesian inferencing fo
 **Project Status: Completed**
 <br>
 <a href="https://github.com/majfeizatgmaildotcom/Medical-Testing-Analysis-Visualization/blob/1e0957e56c8ee7c9c745235e94fe76e240ce7e96/Medical_Testing_Analysis_Visualization.ipynb">Jupyter Notebook Viewer</a>
+
+## Results
+Considering the sensitivity and specificity of the cancer test, we could use the Bayesian theory to calculate the likelihood of having cancer and have a positive test among all positive test populations. In the figure above, the total area of red and blue is the population of people who tested positive. Red zone belong to the people who have cancer and truly tested positive prediction (subjected to the test's sensitivity). As seen in the figure, the red area is larger in Joe (with prostate cancer) comparing to Jim ( with breast cancer); thus, with all uncertainty of the test cancer consideration, it is more likely that Joe has Prostate cancer (with ~79% probability) and it is less likely (with ~32%) that Jim would have a breast cancer.
