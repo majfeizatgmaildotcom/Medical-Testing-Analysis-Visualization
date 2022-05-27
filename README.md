@@ -4,7 +4,7 @@
 # Bayesian Medical Testing Analysis & Visualizaion
 From Majid Feiz, Bayesian-Inference-Application in Medical Testing
 
-Bayesian inference is a method of statistical inference in which Bayes' rule is used to update the probability for a hypothesis as more evidence or information becomes available. In clinical medicine Bayesian methods are used to establish the probability that a patient has a particular condition given the results of the test used and the prevalence of the condition in the population tested.\n
+Bayesian inference is a method of statistical inference in which Bayes' rule is used to update the probability for a hypothesis as more evidence or information becomes available. In clinical medicine Bayesian methods are used to establish the probability that a patient has a particular condition given the results of the test used and the prevalence of the condition in the population tested.\
 In this analysis, consider two people, Joe and Jim, who went to cancer screening at different clinics, Joe for prostate 
 cancer screening and Jim for breast cancer screening. Male breast cancer is rare (“less than 1% of all 
 breast cancers occur in men”, https://www.breastcancer.org/symptoms/types/male_bc), but prostate 
